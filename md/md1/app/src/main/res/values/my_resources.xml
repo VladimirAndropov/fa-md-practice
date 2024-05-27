@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tvTopText">Top Text</string>
+    <string name="btnTopText">Top Button</string>
+    <string name="tvBottomText">Bottom Text</string>
+    <string name="btnBottomText">Bottom Button</string>
+    <string name="tv_top">Vertical Orientation</string>
+    <string name="button1">Button1</string>
+    <string name="button2">Button2</string>
+    <string name="button3">Button3</string>
+    <string name="button4">Button4</string>
+    <color name="llTopColor">#A0D1FF</color>
+    <color name="llBottomColor">#75CA9F</color>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Прикатика МД1_1</string>
+    <string name="tvTopText">Верхний текст</string>
+    <string name="btnTopText">Верхняя Кнопка</string>
+    <string name="tvBottomText">Ниэний Текст</string>
+    <string name="btnBottomText">Нижняя Кнопка</string>
+    <string name="tv_top">Вертикальная ориентация</string>
+    <string name="button1">Кнопка1</string>
+    <string name="button2">Кнопка2</string>
+    <string name="button3">Кнопка3</string>
+    <string name="button4">Кнопка4</string>
+    <string name="button">Кнопка</string>
+    <string name="textview">Текст</string>
+    <string name="checkbox">Чекбокс</string>
+</resources>
