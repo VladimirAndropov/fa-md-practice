@@ -7,3 +7,6 @@
 [submodule "ЗБ-ПИ21-1с/Brylyov-fa-md-practice"]
 	path = ЗБ-ПИ21-1с/Brylyov-fa-md-practice
 	url = https://github.com/vladez012/Brylyov-fa-md-practice
+[submodule "LichnyeFinansy"]
+	path = LichnyeFinansy
+	url = https://github.com/vladez012/LichnyeFinansy
